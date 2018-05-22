@@ -101,7 +101,7 @@ def _get_msg_content_html(project_version, svn_log):
             <font  size="2" color="#877c7b">
                 <strong>Best Regards<br>
                   %s|%s<br>
-                  深圳市维亿魄科技有限公司<br>
+                  深圳市xxxxx有限公司<br>
                  </strong>
             </font> 
         </p>
@@ -110,7 +110,7 @@ def _get_msg_content_html(project_version, svn_log):
             <font size="2" color="#0092e7">T</font><font size="2" color="#7f7f7f">: 0755-86543281</font><br>
             <font size="2" color="#0092e7">E</font><font size="2" color="#2e7aac"><strong>: %s</strong></font> | 
             <font size="2" color="#0092e7">W</font><font size="2" color="#2e7aac"><strong>: www.veepoo.cn</strong></font><br>
-            <font size="2" color="#7f7f7f">深圳市南山区科技园科苑路15号科兴科学园A1栋505</font><br>
+            <font size="2" color="#7f7f7f">深圳市南山区科技园xxxxx</font><br>
         %s
         </p>
       </body>
