@@ -5,6 +5,7 @@ from emails.EmailContent import _get_content_main_content
 from fils.FileOprate import FileOprate
 from configs.Config import CheckInTestConfig, project_name, EmailConfig
 
+# app 提测发布的工作流
 if __name__ == "__main__":
     # 获取svn日志
     svn = SvnHelper()
