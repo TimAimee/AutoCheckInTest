@@ -125,3 +125,4 @@ if __name__ == "__main__":
     log_version_stop = svn._get_svn_version_stop()
     log_version_start, "-", log_version_stop
     svn._get_svn_log(log_version_start, log_version_stop)
+    
