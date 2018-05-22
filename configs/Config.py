@@ -13,7 +13,7 @@ winrar_home = 'C:\\Program Files\\WinRAR\\'
 svn_url_pro_home = 'E:\\Android_Veepoo_SVN_Code\\xxx_android\\trunk\\xxx\\app'
 
 # 项目名，最好不要带空格的命名
-project_name = "HBand"
+project_name = "xxx"
 
 
 class CheckInTestConfig:
